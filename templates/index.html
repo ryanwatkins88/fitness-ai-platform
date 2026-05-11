@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FitMatch AI — Coach Client Finder</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">
+      <span class="logo-icon">⚡</span>
+      <span class="logo-text">FitMatch <span class="accent">AI</span></span>
+    </div>
+    <nav class="tabs">
+      <button class="tab-btn active" data-tab="profile">My Profile</button>
+      <button class="tab-btn" data-tab="groups">Find Groups</button>
+      <button class="tab-btn" data-tab="script">DM Script</button>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <!-- ===== PROFILE TAB ===== -->
+  <section id="tab-profile" class="tab-content active">
+    <div class="section-header">
+      <h1>Your Coach Profile</h1>
+      <p>Tell us about yourself and your ideal clients. This powers both the Group Finder and DM Script tools.</p>
+    </div>
+
+    <form id="profile-form" class="card profile-card">
+      <div class="form-grid">
+        <div class="form-group">
+          <label>Your Name</label>
+          <input type="text" id="f-name" placeholder="e.g. Sarah M." />
+        </div>
+        <div class="form-group">
+          <label>Your Coaching Niche / Specialty</label>
+          <input type="text" id="f-niche" placeholder="e.g. Body recomposition for women over 40" />
+        </div>
+        <div class="form-group">
+          <label>Target Clientele</label>
+          <textarea id="f-target" rows="2" placeholder="e.g. Women 40–55 who've lost weight but feel soft, frustrated that workouts aren't working like they used to"></textarea>
+        </div>
+        <div class="form-group">
+          <label>Client Age Range</label>
+          <input type="text" id="f-age" placeholder="e.g. 40–55" />
+        </div>
+        <div class="form-group">
+          <label>Client Gender Focus</label>
+          <select id="f-gender">
+            <option value="">All genders</option>
+            <option value="women">Primarily women</option>
+            <option value="men">Primarily men</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Client Pain Points</label>
+          <textarea id="f-pain" rows="2" placeholder="e.g. Nothing working like it used to, confused about what to eat, frustrated despite doing everything right"></textarea>
+        </div>
+        <div class="form-group">
+          <label>Client Goals</label>
+          <textarea id="f-goals" rows="2" placeholder="e.g. See muscle definition, feel strong and confident, fit into old clothes again"></textarea>
+        </div>
+        <div class="form-group full-width">
+          <label>Your Lead Magnet / Free Offer</label>
+          <input type="text" id="f-magnet" placeholder="e.g. '5-Day Metabolism Reset Guide for Women Over 40'" />
+        </div>
+        <div class="form-group full-width">
+          <label>Your Coaching Style / What Makes You Different</label>
+          <textarea id="f-style" rows="2" placeholder="e.g. No calorie counting, training built for hormonal shifts, progressive strength not just cardio"></textarea>
+        </div>
+      </div>
+
+      <div class="form-actions">
+        <button type="submit" class="btn btn-primary">Save Profile</button>
+        <span id="profile-saved" class="save-indicator hidden">Profile saved!</span>
+      </div>
+    </form>
+  </section>
+
+  <!-- ===== GROUPS TAB ===== -->
+  <section id="tab-groups" class="tab-content">
+    <div class="section-header">
+      <h1>Find Your Client Communities</h1>
+      <p>AI-powered group recommendations based on your profile — with search terms, engagement tips, and what to avoid.</p>
+    </div>
+
+    <div id="groups-no-profile" class="alert alert-warn hidden">
+      Fill in your Coach Profile first so recommendations are tailored to your exact niche.
+    </div>
+
+    <div class="find-groups-actions">
+      <button id="find-groups-btn" class="btn btn-primary btn-large">
+        <span class="btn-icon">🔍</span> Find My Groups
+      </button>
+      <p class="hint">Takes about 10–15 seconds to generate tailored recommendations.</p>
+    </div>
+
+    <div id="groups-loading" class="loading-block hidden">
+      <div class="spinner"></div>
+      <p>Analyzing your niche and finding the best communities...</p>
+    </div>
+
+    <div id="groups-results" class="hidden">
+      <div class="results-section">
+        <h2 class="results-heading">
+          <span class="platform-badge facebook">f</span> Facebook Groups
+        </h2>
+        <div id="facebook-groups-list" class="groups-grid"></div>
+      </div>
+
+      <div class="results-section">
+        <h2 class="results-heading">
+          <span class="platform-badge threads">T</span> Threads Communities
+        </h2>
+        <div id="threads-list" class="groups-grid"></div>
+      </div>
+
+      <div class="results-section">
+        <h2 class="results-heading">💡 Pro Tips</h2>
+        <ul id="pro-tips-list" class="pro-tips"></ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== SCRIPT TAB ===== -->
+  <section id="tab-script" class="tab-content">
+    <div class="section-header">
+      <h1>DM Script Assistant</h1>
+      <p>Walk through your proven booking script step by step. Paste what your prospect said and get an AI-powered response — ready to copy and send.</p>
+    </div>
+
+    <div class="script-layout">
+
+      <!-- Left: Script Steps -->
+      <div class="script-steps-panel">
+        <h3>Script Steps</h3>
+        <div id="script-steps-list"></div>
+      </div>
+
+      <!-- Right: Conversation -->
+      <div class="script-conversation-panel">
+
+        <div id="conversation-history" class="conversation-history">
+          <div class="convo-empty">
+            <p>Your conversation will appear here as you work through the steps.</p>
+          </div>
+        </div>
+
+        <div class="script-input-area">
+          <div class="current-step-banner" id="current-step-banner">
+            Step 1 — Open the Conversation
+          </div>
+
+          <div class="input-group">
+            <label>What did the prospect say?</label>
+            <textarea id="prospect-input" rows="3" placeholder="Paste their message here..."></textarea>
+          </div>
+
+          <button id="get-response-btn" class="btn btn-primary">
+            Get Best Response →
+          </button>
+        </div>
+
+        <!-- AI Response Card -->
+        <div id="response-card" class="response-card hidden">
+          <div class="response-card-header">
+            <span class="ai-badge">AI Suggestion</span>
+            <button id="copy-response-btn" class="btn btn-ghost btn-small">Copy</button>
+          </div>
+
+          <div class="response-main">
+            <p id="response-text"></p>
+          </div>
+
+          <div class="response-meta">
+            <div class="meta-item">
+              <span class="meta-label">Why it works</span>
+              <span id="response-why"></span>
+            </div>
+            <div class="meta-item">
+              <span class="meta-label">Listen for</span>
+              <span id="response-listen"></span>
+            </div>
+          </div>
+
+          <details class="alt-response">
+            <summary>See alternative response</summary>
+            <p id="response-alt"></p>
+            <button class="btn btn-ghost btn-small" id="copy-alt-btn">Copy alternative</button>
+          </details>
+
+          <div class="response-actions">
+            <button id="use-response-btn" class="btn btn-primary btn-small">Use this → Add to Conversation</button>
+            <button id="next-step-btn" class="btn btn-secondary btn-small hidden">Move to Next Step →</button>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<script src="/static/app.js"></script>
+</body>
+</html>
