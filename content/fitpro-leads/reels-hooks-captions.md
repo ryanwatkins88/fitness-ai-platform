@@ -168,6 +168,49 @@ Free, for a limited number of coaches: I write your content, track every lead it
 
 ---
 
+## Bonus: evergreen educational Reels (mix in for variety)
+
+These teach something real up front, no offer mentioned until the end —
+good for weeks where you don't want three offer posts in a row. Proven
+pattern: give away a genuinely useful framework, then a soft CTA at the end.
+
+### 16. The DM script
+**Hook:** "Someone comments on your post. Here's exactly what to say next."
+**Caption:**
+Don't just heart the comment. Reply, then follow up in DMs: "Hey [name], saw your comment — is [pain point] something you're dealing with right now?" That one question turns a comment into a real conversation, and that's where clients actually come from.
+
+**CTA:** "Comment CASE STUDY if you want this whole system built for you, free."
+
+### 17. Lead vs. prospect vs. client
+**Hook:** "A lead, a prospect, and a client are not the same thing. Mixing them up is costing you money."
+**Caption:**
+A lead is anyone who raises a hand — a comment, a follow, a DM. A prospect is a lead you've actually talked to. A client is someone paying you. Most coaches track none of these separately, so they have no idea where people are actually falling out.
+
+**CTA:** "Want this tracked for you? Comment LEADS."
+
+### 18. Metrics that actually matter
+**Hook:** "Stop checking your like count. Check this instead."
+**Caption:**
+Track: comments/DMs per post (real interest), reply rate (how many you actually follow up with), and lead-to-client rate (how many of those become paying clients). These three numbers tell you if content is working. Likes tell you nothing.
+
+**CTA:** "Comment CASE STUDY and I'll track these for you."
+
+### 19. Content pillars
+**Hook:** "Every coach needs exactly 4 types of content. Here they are."
+**Caption:**
+Pain point — what your ideal client struggles with. Myth-bust — a belief holding them back. Proof/process — what you do and why it works. Invitation — a clear, low-pressure way to start working with you. Rotate these four and planning stops being the hard part.
+
+**CTA:** "Want these written for you? Comment LEADS."
+
+### 20. Three hook types
+**Hook:** "Here are the 3 hooks that stop coaches mid-scroll."
+**Caption:**
+The confession — "I used to think X, until Y." The myth-bust — "Everyone tells you X. Here's why that's wrong." The blunt question — "What's actually stopping you from X?" Rotate these three and you'll never stare at a blank caption box again.
+
+**CTA:** "Want a month of these done for you? Comment CASE STUDY."
+
+---
+
 ## Notes for using these
 
 - **Don't fabricate proof.** Post #5 and #10 reference real traction — only
@@ -175,7 +218,7 @@ Free, for a limited number of coaches: I write your content, track every lead it
   Threads response counts; don't round it up).
 - **Reply to every comment fast.** These are built to start a DM
   conversation, not just get engagement — the follow-up is the actual
-  conversion mechanic, same as Day 11 in the 30-day calendar.
-- **Rotate, don't stack.** Post one validation-style hook, then a
-  pain-point callout, then a direct offer — repeating the same angle
-  back-to-back flattens response rates.
+  conversion mechanic (see #16).
+- **Rotate, don't stack.** Mix validation, pain-point, direct-offer, and
+  educational posts — repeating the same angle back-to-back flattens
+  response rates.
