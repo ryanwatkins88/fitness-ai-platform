@@ -40,7 +40,7 @@ Goal here is a real conversation, not a pitch. If they respond and it turns into
 
 This keeps it a conversation, not a funnel step, while still qualifying whether they're a real fit.
 
-**C. When someone comments a keyword (e.g. "MUSCLE") on a direct-offer post**
+**C. When someone comments a keyword (e.g. "PROTECT" — matches the keyword already live on the profile cover photo) on a direct-offer post**
 > "Hey [Name]! Saw you comment on the muscle-protection post — that's exactly what my 6-week beta program is built for. Quick version: [1-2 sentence description] and it's structured so if you complete the workouts and nutrition, you get every dollar back. Want me to send you the full rundown?"
 
 This is your only "cold ask" — it's earned because they self-identified by commenting the keyword.
