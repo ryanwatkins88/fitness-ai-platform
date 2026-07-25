@@ -6,6 +6,8 @@ Pairs each viral question (spoken hook / on-screen text) with a full caption. Ev
 
 **Disclaimer to keep in bio/pinned comment:** general fitness/nutrition education, not medical advice. Anyone on a GLP-1 medication should talk to their prescribing doctor about diet and exercise changes.
 
+**The offer (for reference, so every caption stays consistent):** Muscle Guard is a **6-week beta program**. It's structured as a "bet on yourself" model — clients pay to join, and if they complete the workouts and the nutrition side of the protocol, they get a full refund, regardless of the scale outcome. This round is about proving the protocol works and building real case studies, not about the money. **Before this goes live anywhere, get your exact refund terms (what "complete" means, the window to request it, how it's paid back) written down on your actual offer/sales page or contract — captions can point to the offer, but the legal terms should live there, not just in a Reel caption.**
+
 **Caption usage notes:**
 - Post the **hook** as your spoken line / on-screen text, and the **caption** as the actual Instagram/TikTok/Facebook caption underneath.
 - Category I captions use "comment MUSCLE" as the CTA — don't run more than 1-2 of those per week or it reads as sales-y. Rotate the CTA wording occasionally (comment MUSCLE / DM me / link in bio) so it doesn't feel copy-pasted.
@@ -296,37 +298,37 @@ Caption: How much of that "after" body is muscle versus how much is just... less
 ## I. Direct CTA / Soft Pitch to Muscle Guard
 
 **89. What if there was a protocol built specifically to protect your muscle while on a GLP-1?**
-Caption: That's exactly what Muscle Guard is — a protein target, a simple resistance training structure, and monitoring built specifically for people losing weight on a GLP-1. Comment MUSCLE and I'll send you the details.
+Caption: That's Muscle Guard — a 6-week beta round with a protein target and a simple resistance training structure, built specifically for people losing weight on a GLP-1. Complete the workouts and the nutrition, and you get every dollar back — this round is about proving it works, not about the money. Comment MUSCLE for details.
 
 **90. What would change about your results if muscle protection was part of your plan from day one?**
-Caption: Based on the research, likely a more toned outcome instead of a "smaller" one, and a stronger metabolic foundation once you reach maintenance. That's the difference Muscle Guard is designed to make.
+Caption: Based on the research, likely a more toned outcome instead of a "smaller" one. That's exactly what the 6-week Muscle Guard beta is built to prove — and if you complete the workouts and nutrition, you get a full refund regardless of where the scale lands. I need real results and real case studies more than I need your money right now.
 
 **91. Are you protecting your muscle on your GLP-1 journey, or just hoping for the best?**
-Caption: No judgment either way — most people just weren't given a plan for this part. If you want one, that's what Muscle Guard is for. Comment MUSCLE and I'll walk you through it.
+Caption: No judgment — most people just weren't given a plan for this part. Muscle Guard is a 6-week beta built to be that plan, and it's structured so you're betting on yourself: complete the workouts and nutrition, get every penny back. Comment MUSCLE and I'll walk you through it.
 
 **92. What's your plan for keeping the muscle you have while the number on the scale drops?**
-Caption: If the honest answer is "I don't really have one," you're not alone — and that's the exact gap Muscle Guard fills: a protein target and training structure built around your GLP-1 journey.
+Caption: If the honest answer is "I don't really have one," the 6-week Muscle Guard beta is built to be that plan — protein target, training structure, check-ins. Complete the workouts and nutrition and it's on me: full refund. This round is about case studies, not profit.
 
 **93. Do you have a strength and protein plan running alongside your GLP-1, or just the injection?**
-Caption: If it's just the injection right now, adding the other two pieces is where the real difference happens. Muscle Guard is built to be the simple, doable version of that — not a second full-time job.
+Caption: If it's just the injection right now, the 6-week Muscle Guard beta adds the other two pieces. Complete the workouts and the nutrition side of it, and you get every dollar back — you're betting on yourself, and I'm backing that bet.
 
 **94. What would it look like to lose fat, protect your face, and keep your shape — all at once?**
-Caption: It looks like your GLP-1 doing what it does, with a protein target and consistent resistance training running alongside it. That combination is the entire foundation of Muscle Guard.
+Caption: That's the exact outcome the 6-week Muscle Guard beta is built to test. Complete the workouts and nutrition, and you get a full refund either way — I'd rather have your result and your story right now than your money.
 
 **95. Is your current plan built to protect muscle, or just built to lose weight?**
-Caption: Most default GLP-1 plans are built around the second one only. Muscle Guard adds the first piece back in — so weight loss and muscle protection are happening at the same time, not one instead of the other.
+Caption: Most default GLP-1 plans are built around the second one only. The 6-week Muscle Guard beta adds the first piece back in — and because getting people real results matters more right now than making money, completing the workouts and nutrition gets you every dollar back.
 
 **96. What's missing from your GLP-1 journey if muscle isn't part of the conversation?**
-Caption: The part that determines whether you end up looking "toned" or "deflated" at the finish line. If that's not being addressed, it's worth adding — and that's exactly what Muscle Guard was built for.
+Caption: A structured plan for it — which is what the 6-week Muscle Guard beta is. Complete the workouts and the nutrition, and every penny comes back to you. This round is about building proof this works, not collecting payments.
 
 **97. Would you rather lose weight the fast way, or the way that protects how you look after?**
-Caption: You don't actually have to choose — GLP-1s handle the pace, Muscle Guard handles the protection. They're built to work together, not compete with each other.
+Caption: You don't have to choose — that's the whole premise of the 6-week Muscle Guard beta. And because I need real case studies more than I need your money right now, completing the workouts and nutrition gets you a full refund either way.
 
 **98. What's one thing you'd want in a "muscle guard" plan for your GLP-1 journey?**
-Caption: Tell me in the comments — mine includes a personalized protein target, a simple 2-3x/week strength structure, and check-ins so you're not guessing. If that sounds like what you need, comment MUSCLE.
+Caption: Tell me in the comments — the 6-week beta round includes a personalized protein target, a simple strength structure, and check-ins. Complete the workouts and nutrition and you get every dollar back. Comment MUSCLE if that's what you need.
 
 **99. Are you ready to lose the fat without losing your shape?**
-Caption: If yes, the missing piece is almost always protein and resistance training running alongside your GLP-1 — which is exactly what Muscle Guard is structured around. Comment MUSCLE and let's get you set up.
+Caption: The 6-week Muscle Guard beta is built for exactly that, and it's structured so you're betting on yourself: complete the workouts and nutrition, and you get a full refund. Comment MUSCLE and let's get you in.
 
 **100. What would it take for you to feel confident finishing your GLP-1 journey, not just starting it?**
-Caption: Usually, it's knowing the "after" will look toned, not just smaller. That confidence comes from protecting your muscle the whole way through — which is the entire reason Muscle Guard exists.
+Caption: A real plan and real accountability — which is what the 6-week Muscle Guard beta is built around. Complete the workouts and the nutrition, and every dollar comes back to you. This round isn't about the money, it's about proving this works.
