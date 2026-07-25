@@ -20,9 +20,31 @@ Maps the path you described: you interact helpfully in Facebook groups → add/f
 
 Most platforms let you pin posts — use it. Structure the first three things a new visitor sees like this:
 
-1. **Pin #1 — Who you are / what you help with.** A symptom-callout piece (from the style guide) paired with a short bio-style caption: what you help people do, and the fact that you're actively completing your Weight Loss Management Specialist certification (Chapter 2, stated honestly — see prior guidance). No pitch yet.
-2. **Pin #2 — Proof/authority.** Once you have any client story, data point, or even just a clear explanation of your research-backed approach, this is where it goes. Until you have real case studies, use a research-backed strategy piece instead (protein + resistance training explainer) — it does the same "I know what I'm talking about" job.
-3. **Pin #3 — The direct offer.** A clear, honest explanation of the 6-week beta: what it is, the bet-on-yourself refund structure, and exactly what to do next (comment a keyword or send a DM).
+1. **Pin #1 — Who you are / what you help with (already live).** Your current pinned post: the "losing weight fast" hook, the muscle-vs-fat stat, your credibility line, and the free-guide CTA (comment PROTECT). This is doing its job well — no changes needed.
+
+2. **Pin #2 — "Is this safe for my body?" (joint-safety authority)**
+   > **Hook:** "Bad shoulder? Achy knees? Thinning bones? Here's why none of that rules out getting stronger."
+   >
+   > A lot of people avoid strength training because of a real injury, joint pain, or a diagnosis like osteoporosis or arthritis — and that hesitation is smart, not weak. Generic workouts really aren't built for that.
+   >
+   > A little more about my background: I've been a NASM-certified personal trainer for over 15 years, and for the last several years I've worked in person with retired and 50+ clients managing arthritis, meniscus repairs, shoulder impingement, rotator cuff tears, spinal stenosis, stroke recovery, Parkinson's, balance challenges, and fibromyalgia. I also spend a lot of time helping people transition out of physical therapy back into real, ongoing strength training.
+   >
+   > That means when I build a plan to help you keep your muscle and tone up while you lose weight, it's built to work around the joints and conditions you're already dealing with, not ignore them.
+   >
+   > If you've been sitting out strength training because you're scared of making something worse, comment PROTECT and I'll send you the same free guide, built with that in mind.
+
+3. **Pin #3 — "Will this actually work when other things haven't?" (bridges into the direct offer)**
+   > **Hook:** "Tried a trainer before and still didn't get the results you wanted? Here's what's usually missing."
+   >
+   > A lot of personal training doesn't fail because the workouts were bad — it fails because only half the plan was ever covered. Great workouts, no real nutrition guidance. Or the reverse. Either way, half a plan gets you half a result.
+   >
+   > That's exactly why I built Muscle Guard: a 6-week program that covers the workouts AND the nutrition as one plan, built around keeping your muscle, your strength, and your shape while the weight comes off.
+   >
+   > This first round is a beta. I'm looking for people ready to actually do the work, and because getting real results and real case studies matters more to me right now than making money, completing the workouts and nutrition gets you every dollar back. You're betting on yourself. I'm backing that bet.
+   >
+   > Comment BETA and I'll send you the details.
+
+**Why this order:** Pin 1 casts the widest net (general hook), Pin 2 answers the safety objection using your real current client population, and Pin 3 answers "why would this work when past attempts haven't" before making the direct ask — each pin earns the next, rather than repeating the same pitch three times.
 
 **Below the pins, your regular feed** should show a mix — rotate symptom-callout, belief-shift, and strategy-tease posts so a scrolling visitor sees range, not one repeated pitch.
 
@@ -40,10 +62,15 @@ Goal here is a real conversation, not a pitch. If they respond and it turns into
 
 This keeps it a conversation, not a funnel step, while still qualifying whether they're a real fit.
 
-**C. When someone comments a keyword (e.g. "PROTECT" — matches the keyword already live on the profile cover photo) on a direct-offer post**
-> "Hey [Name]! Saw you comment on the muscle-protection post — that's exactly what my 6-week beta program is built for. Quick version: [1-2 sentence description] and it's structured so if you complete the workouts and nutrition, you get every dollar back. Want me to send you the full rundown?"
+**C1. When someone comments "PROTECT" (free guide, Pin 1 or Pin 2)**
+> "Hey [Name]! Here's the free guide on protecting your muscle while you lose weight — [link/send guide]. Let me know if any of it doesn't make sense or if you've got questions about your specific situation!"
 
-This is your only "cold ask" — it's earned because they self-identified by commenting the keyword.
+This is a lead-magnet delivery, not a pitch. Let the guide do its job before mentioning the beta — if they ask more questions or the conversation naturally continues, that's your opening.
+
+**C2. When someone comments "BETA" (the direct offer, Pin 3)**
+> "Hey [Name]! Saw you comment on the beta post — here's the quick version: 6 weeks, workouts + nutrition built around keeping your muscle and shape while you lose weight, and if you complete both sides of it you get every dollar back. Want me to send the full rundown so you can see if it's a fit?"
+
+This is your only "cold ask" — it's earned because they self-identified by commenting the higher-intent keyword.
 
 **D. Nurture DM for someone who's liked/reacted to several posts over time but never engaged directly**
 > "Hey [Name], noticed you've been checking out some of my posts about muscle loss during fast weight loss — figured I'd ask directly: is that something you're navigating too? Happy to share what's worked for people if it's useful, no pressure."
