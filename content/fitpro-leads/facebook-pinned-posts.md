@@ -34,7 +34,10 @@ in hand), 4 remaining.
    don't post language that implies the free tier itself is guaranteed.
 
 **Bonuses below are still placeholders** — edit the bracketed parts to
-whatever you're actually willing to commit to before posting.
+whatever you're actually willing to commit to before posting. Keep bonuses
+as samples/previews (a few days of content, one recommendation implemented),
+not the full package — the free tier is the four quick wins/plan itself;
+bonuses should intrigue toward the paid upsell, not replace the reason to buy it.
 
 ---
 
@@ -78,7 +81,7 @@ refer other coaches than keep money for work that didn't land.
 **Bonuses for the first 5:**
 - [Locked-in founding-client pricing once this becomes a paid service]
 - [Done-for-you setup of your #1 recommended quick win]
-- [A 30-day content calendar tailored to what came out of your assessment]
+- [A short sample — 3-5 days of hooks/captions tailored to what came out of your assessment, so you can see what a full calendar would look like]
 
 **Where things stand:** 5 spots, free, while I run this as a case study.
 1 is filled. 4 left, and a few people have already reached out.
