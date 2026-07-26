@@ -211,6 +211,52 @@ The confession — "I used to think X, until Y." The myth-bust — "Everyone tel
 
 ---
 
+## Bonus: real pain points from an actual assessment call
+
+These are anonymized from a real first-call transcript — no name, no
+business specifics, no identifying combination of details. They're strong
+because the pain points are specific and true, not guessed. If you ever
+want to feature this coach by name as a named case study, that's a
+separate ask and needs her explicit go-ahead — this section only draws on
+the pain points, not her identity.
+
+### 21. The DM grind
+**Hook:** "A coach I talked to sends 60+ Instagram DMs a day to total strangers, hunting for leads."
+**Caption:**
+One day's numbers: 66 messages sent, 5 replies, maybe 2 people even interested in coaching. An hour to ninety minutes a day, gone. She said it herself: "it's not really working out great." That's not a hustle problem. That's a system with no targeting and no tracking, dressed up as effort.
+
+**CTA:** "Comment CASE STUDY if this is basically your day too."
+
+### 22. The decision-paralysis post
+**Hook:** "A new coach told me her biggest struggle isn't the work. It's knowing what to actually work on."
+**Caption:**
+No business background, running the whole thing solo — so on a rare free two hours, a chunk of it goes to just deciding what matters most today instead of doing it. That's not a discipline problem. That's what happens when there's no plan telling you what's actually the priority.
+
+**CTA:** "Sound familiar? Comment LEADS and I'll help you find your actual priorities."
+
+### 23. The content-inconsistency post
+**Hook:** "Same video format. One week: 2,000 views. Next week: 200. She has no idea why."
+**Caption:**
+That's what "hit or miss" content actually looks like from the inside — not a lack of effort, a lack of any system telling you which posts are actually working and which are luck. Guessing at content forever isn't a strategy.
+
+**CTA:** "Comment CASE STUDY if you're guessing too."
+
+### 24. The all-manual-tools post
+**Hook:** "Her entire coaching business runs on Google Docs, Google Sheets, and WhatsApp. No CRM. Nothing automated."
+**Caption:**
+Completely normal for a solo coach starting out — and also exactly where hours quietly disappear every week. Not because the tools are wrong, but because nothing's connected and nothing runs without her manually doing it every time.
+
+**CTA:** "Comment LEADS if that's basically your setup too."
+
+### 25. The burnout-from-grinding post
+**Hook:** "She's right at the edge of burnout. Not from coaching. From everything around it."
+**Caption:**
+Sixty-plus DMs a day for a handful of replies. Guessing at content. No plan for what to prioritize. None of that is coaching — it's the unpaid second job every coach ends up doing alone. Burnout isn't a sign you need to work harder. It's a sign the system around your actual work is missing.
+
+**CTA:** "Comment CASE STUDY and let's fix the system, not just push through it."
+
+---
+
 ## Notes for using these
 
 - **Don't fabricate proof.** Post #5 and #10 reference real traction — only
