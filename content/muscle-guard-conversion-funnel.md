@@ -40,9 +40,13 @@ Most platforms let you pin posts — use it. Structure the first three things a 
    >
    > That's exactly why I built Muscle Guard: a 6-week program that covers the workouts AND the nutrition as one plan, built around keeping your muscle, your strength, and your shape while the weight comes off.
    >
-   > This first round is a beta. I'm looking for people ready to actually do the work, and because getting real results and real case studies matters more to me right now than making money, completing the workouts and nutrition gets you every dollar back. You're betting on yourself. I'm backing that bet.
+   > I'm taking 5 people through it as a beta. Only 5.
+   >
+   > There's a small deposit to hold your spot, and you get all of it back when you finish — free if you do the work. I set it up that way so I only bring in people who'll truly show up.
    >
    > Comment BETA and I'll send you the details.
+
+   *(Updated to match the deposit + "only 5" scarcity language from the post that's actually generating inbound interest — see `muscle-guard-winning-template.md`. Keep this in sync if the actual spot count or deposit terms change.)*
 
 **Why this order:** Pin 1 casts the widest net (general hook), Pin 2 answers the safety objection using your real current client population, and Pin 3 answers "why would this work when past attempts haven't" before making the direct ask — each pin earns the next, rather than repeating the same pitch three times.
 
@@ -68,7 +72,7 @@ This keeps it a conversation, not a funnel step, while still qualifying whether 
 This is a lead-magnet delivery, not a pitch. Let the guide do its job before mentioning the beta — if they ask more questions or the conversation naturally continues, that's your opening.
 
 **C2. When someone comments "BETA" (the direct offer, Pin 3)**
-> "Hey [Name]! Saw you comment on the beta post — here's the quick version: 6 weeks, workouts + nutrition built around keeping your muscle and shape while you lose weight, and if you complete both sides of it you get every dollar back. Want me to send the full rundown so you can see if it's a fit?"
+> "Hey [Name]! Saw you comment on the beta post — here's the quick version: 6 weeks, workouts + nutrition built around keeping your muscle and shape while you lose weight. There's a small deposit to hold your spot, and you get all of it back when you finish. Only taking 5 people through this round — want me to send the full rundown so you can see if it's a fit?"
 
 This is your only "cold ask" — it's earned because they self-identified by commenting the higher-intent keyword.
 
