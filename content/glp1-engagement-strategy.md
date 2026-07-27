@@ -558,7 +558,107 @@ these per week mixed into your other content.
 
 ---
 
-## 10. Posting Cadence
+## 11. Scroll-Stopping Symptom Posts (What + Why, No How)
+
+Format: a hook that names a specific symptom or self-conscious moment,
+then a caption that explains **what's happening and why** in plain,
+validating language — grounded in what's in Section 5/6/9. Deliberately
+**no how-to, no CTA, no program mention** in any of these. The goal is
+recognition ("that's exactly what I'm going through") and trust ("she
+actually understands why"), not a pitch. Save the how for later content.
+
+32. **Hook:** "The stairs didn't get taller. Your legs just don't have
+    what they used to."
+    **Caption:** You're down two, three, four sizes and stairs still
+    wreck you. That's not you being dramatic and it's not just "needing
+    more cardio." When weight comes off fast, some of what leaves is
+    muscle, not fat — and muscle is what actually gets you up those
+    stairs without gasping. The scale can't tell the difference between
+    the two. Your legs can.
+    **Visual idea:** POV walking up a flight of stairs.
+
+33. **Hook:** "Nobody tells you the chafing gets worse before it gets
+    better."
+    **Caption:** You lose the weight and suddenly there's rubbing
+    somewhere that was never an issue before. Skin and soft tissue move
+    at their own pace — slower than the scale does. It's not a sign
+    you're doing something wrong. It's just what the in-between looks
+    like on a real body.
+    **Visual idea:** text-on-screen only, no image needed.
+
+34. **Hook:** "You can be the smallest you've been in years and still not
+    be able to open a jar."
+    **Caption:** Grip strength, carrying strength, the strength to catch
+    yourself if you trip — none of that is guaranteed just because the
+    scale is dropping. Smaller and weaker is a real combination, and it's
+    more common than people talk about.
+    **Visual idea:** close-up on hands.
+
+35. **Hook:** "Your arms look smaller. They don't look toned. There's a
+    difference."
+    **Caption:** Smaller just means less. Toned means there's still
+    muscle underneath doing something. When a chunk of what leaves is
+    muscle instead of fat, you end up with less of everything — including
+    the shape you were probably hoping to see. That soft, deflated
+    feeling isn't in your head.
+    **Visual idea:** none required — strong on its own as text.
+
+36. **Hook:** "Getting up off the floor shouldn't take a plan."
+    **Caption:** If sitting down on the floor with your kid or grandkid
+    and getting back up has turned into a whole production, that's worth
+    paying attention to. Not because something's wrong with you — because
+    that movement takes real leg and core strength, and that's exactly
+    the kind of strength that can quietly go missing during fast weight
+    loss if nothing's protecting it.
+    **Visual idea:** candid family/floor-play moment.
+
+37. **Hook:** "Your clothes are loose in some places and somehow still
+    tight in others."
+    **Caption:** That's not your imagination. Weight doesn't come off
+    evenly, and neither does muscle. Different parts of your body are
+    holding onto different amounts of both right now — which is exactly
+    why nothing fits quite the way you'd expect yet.
+    **Visual idea:** closet or mirror shot, face optional.
+
+38. **Hook:** "You're eating 'better' than you have in years and still
+    hitting a wall by 2pm."
+    **Caption:** Appetite drops fast on this journey, and food volume
+    drops with it — sometimes faster than your energy needs adjust. That
+    crash isn't weakness or a lack of discipline. It's often just less
+    fuel than your body's used to, especially less protein, which is the
+    nutrient most tied to steady energy.
+    **Visual idea:** candid "running on empty" moment — coffee cup, couch.
+
+39. **Hook:** "You feel less steady on your feet than you did 20 pounds
+    heavier."
+    **Caption:** That's a real thing, not a weird coincidence. Balance
+    depends on muscle — specifically the stabilizer muscles in your legs,
+    hips, and core. If that muscle is going along with the fat, your
+    balance can genuinely feel less reliable even as you get lighter.
+    **Visual idea:** none required.
+
+40. **Hook:** "Your face changed before your body did."
+    **Caption:** For a lot of people, the face is where changes show up
+    first, and it can look more dramatic than expected before the rest of
+    your body catches up. It's not a sign anything's going wrong — fat
+    and muscle sit differently in the face than everywhere else, so it
+    moves on its own timeline.
+    **Visual idea:** skip an image on this one, text-only respects the
+    sensitivity of the topic.
+
+41. **Hook:** "The rubbing between your thighs when you walk is new. So is
+    the breath you lose doing it."
+    **Caption:** Walking a distance that used to be nothing now comes
+    with chafing you've never dealt with, and a shortness of breath that
+    doesn't match how much lighter you are. Both trace back to the same
+    thing: your body composition is changing fast, and your soft tissue
+    and conditioning haven't caught up to the number on the scale yet.
+    You're not out of shape. You're mid-transition.
+    **Visual idea:** none required — this one carries itself as text.
+
+---
+
+## 12. Posting Cadence
 
 - **Groups:** 1-3 questions per day total across all 10-15 groups, never the
   same wording twice in the same day. Rotate which groups you post in.
