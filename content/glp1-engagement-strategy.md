@@ -265,6 +265,44 @@ medication.
     It's 'how do I make sure I don't end up smaller but weaker.' That's
     the whole reason I built what I built."
 
+### Fact-based / research-backed posts
+
+Use these to back up the symptom posts with real numbers instead of hype.
+Keep them framed as general research findings, not personal promises about
+your program's results — that's both more honest and safer under FB/FTC
+health-claim rules. No drug brand names, no drug-to-drug comparisons.
+
+16. **Hook:** "Here's a number worth knowing if you're on this journey."
+    **Body:** Research on GLP-1 medications has found that roughly 20-30% of
+    total weight lost can be lean muscle mass — not just fat. That's not a
+    scare tactic, it's just what tends to happen when weight comes off fast
+    without something in place to protect muscle.
+    **Soft close:** none. Just the fact.
+
+17. **Hook:** "Same medication, different outcome — and the difference was
+    two things."
+    **Body:** In a 6-month study, people who added resistance training and
+    hit a solid protein target alongside their GLP-1 treatment lost about
+    13% of their body weight — but only about 3% of that was muscle. Same
+    category of medication as everyone else in the study. The variable was
+    what they did alongside it.
+    **Soft close:** "That gap is exactly what the guide is built around.
+    Comment GUIDE if you want it."
+
+18. **Hook:** "If you only remember one number from me, make it this one."
+    **Body:** Research points to protein intakes above 1.2g per kg of body
+    weight per day, spread across meals, paired with structured resistance
+    training, as the combo that actually protects muscle — more than diet
+    or exercise alone.
+    **Soft close:** none.
+
+19. **Hook:** "Muscle isn't about 'toned.' It's about function."
+    **Body:** Research on body composition consistently ties lean mass to
+    functional capacity — how steady you are on stairs, how easy it is to
+    get up off the floor, how long you can keep going. It's not a vanity
+    metric, it's the thing that determines how your day actually feels.
+    **Soft close:** none.
+
 ### Soft invites (use sparingly — 1 in 5 posts max)
 
 13. "I put together a free 30-minute guide on protecting your strength
@@ -280,7 +318,55 @@ medication.
 
 ---
 
-## 5. Posting Cadence
+## 5. Research-Backed Facts
+
+Use these as your source-checked foundation for any "fact" post, the guide,
+or the Muscle Guard Program pitch. Keep claims general (research shows X),
+never a personal guarantee (this will do X for you) — that's both honest
+and what keeps health-adjacent content compliant.
+
+- **Lean mass is typically ~20-30% of total weight lost on GLP-1
+  medications** (often cited around 25%), a proportion broadly similar to
+  what's seen with any fast weight loss, not unique to these drugs.
+  Source: [Body composition changes during weight reduction with
+  tirzepatide in the SURMOUNT-1 study](https://dom-pubs.onlinelibrary.wiley.com/doi/10.1111/dom.16275);
+  [Muscle Mass and GLP-1 Receptor Agonists — Circulation](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.067676).
+
+- **Resistance training + adequate protein measurably changes that ratio.**
+  In a 6-month prospective study of 200 adults who received resistance
+  training and protein education at the start of GLP-1 therapy, participants
+  lost ~13% of body weight but only ~3% muscle mass — versus the ~20-30%
+  lean-mass share typically seen without that intervention.
+  Source: [Resistance Training + Protein May Lower GLP-1 RA Muscle Loss —
+  Medscape](https://www.medscape.com/viewarticle/resistance-training-protein-may-lower-glp-1-ra-muscle-loss-2025a10008x6).
+
+- **Protein target backed by research: >1.2g/kg body weight/day**, spread
+  evenly across meals, combined with structured resistance training —
+  found to be more effective than diet or exercise alone for preserving
+  lean mass during GLP-1 treatment.
+  Source: same Medscape summary above; also referenced in [Muscle health in
+  the modern era of incretin-based therapies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12825403/).
+
+- **Lean mass is tied to function, not just appearance** — strength,
+  balance, and stamina in daily life track with muscle mass, which is why
+  "keeping up with life" content and "toned" content are really pointing at
+  the same underlying thing.
+  Source: [Muscle Mass and GLP-1 Receptor Agonists: Adaptive or Maladaptive
+  Response to Weight Loss? — Circulation](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.067676).
+
+**Ground rules for using these:**
+- Always frame as "research shows / a study found," never "this will
+  happen to you" or "my program guarantees."
+- Don't compare specific drugs by name (e.g., which one causes more muscle
+  loss) — it's medically nuanced, not something you need to referee
+  publicly, and it edges toward the kind of medical claim that gets
+  health-adjacent accounts flagged.
+- If you ever quote a stat in a post, keep the source handy in case anyone
+  asks — "no BS" only works if you can back it up on request.
+
+---
+
+## 6. Posting Cadence
 
 - **Groups:** 1-3 questions per day total across all 10-15 groups, never the
   same wording twice in the same day. Rotate which groups you post in.
