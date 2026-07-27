@@ -5,13 +5,13 @@
 // ---------------------------------------------------------------------------
 
 export const siteConfig = {
-  name: "[Your Business Name]", // TODO: replace with your real brand name
-  legalName: "[Your Business Name]", // TODO
-  shortName: "[Brand]", // TODO: short version for nav/logo
+  name: "Strong on GLP-1",
+  legalName: "Strong on GLP-1", // TODO: update if you register a different legal/DBA name
+  shortName: "Strong on GLP-1",
   tagline: "Stay Strong, Not Just Smaller — Muscle & Bone Coaching for GLP-1 Users",
   description:
     "Coaching for people on GLP-1 medications (Ozempic, Wegovy, Mounjaro, Zepbound) who want to lose fat without losing muscle, bone density, or strength. Function-first training and nutrition coaching designed around rapid weight loss.",
-  url: "https://example.com", // TODO: replace with your real domain
+  url: "https://example.com", // TODO: replace with your real domain (e.g. strongonglp1.com, if available)
   ogImage: "/og-image.png",
   email: "hello@example.com", // TODO
   phone: "", // TODO (optional, for LocalBusiness schema if you train in-person)
@@ -82,7 +82,7 @@ export const programs: ProgramTier[] = [
   {
     slug: "group-coaching",
     tier: "mid-ticket",
-    name: "Strong on GLP-1 Group Coaching",
+    name: "Live Group Coaching",
     price: "From $129/mo", // Benchmarked against niche-specialist group coaching, see PRICING NOTES below
     billing: "monthly, choose your session frequency",
     bestFor: "People who want live coaching, accountability, and community without 1:1 pricing",
