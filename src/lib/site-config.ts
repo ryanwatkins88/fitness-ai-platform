@@ -47,12 +47,26 @@ export type ProgramTier = {
 };
 
 // Value ladder: lead magnet (free) -> low-ticket -> mid-ticket group -> high-ticket 1:1
+//
+// PRICING NOTES (researched July 2026, adjust as you get real signal from sales):
+// - Low-ticket: $27-47 is the standard tripwire range for a self-guided starter
+//   program. $37 splits the difference.
+// - Group coaching: generic group fitness coaching runs $30-100/mo, but that's
+//   for low-touch, non-specialized programs. Live sessions + a GLP-1-specific
+//   niche justify pricing above that band. $129/$199/$249 for 1x/2x/3x per
+//   week keeps you priced like a specialist while still well under 1:1 rates.
+// - 1:1: niche-specialist 1:1 coaching (menopause, metabolic health, etc.)
+//   benchmarks at $300-700+/mo, vs. $100-300/mo for generalist 1:1 training.
+//   $497/mo "starting at" positions you in that specialist band with room to
+//   quote higher for more complex cases.
+// These are informed starting points, not locked numbers — watch what actually
+// converts and adjust.
 export const programs: ProgramTier[] = [
   {
     slug: "strength-foundations",
     tier: "low-ticket",
     name: "GLP-1 Strength Foundations",
-    price: "$37", // TODO: set your real price
+    price: "$37", // Standard tripwire/low-ticket pricing ($27-$47), see PRICING NOTES below
     billing: "one-time, 4-week program",
     bestFor: "People just starting a GLP-1 who want a done-for-you starting point",
     description:
@@ -69,15 +83,15 @@ export const programs: ProgramTier[] = [
     slug: "group-coaching",
     tier: "mid-ticket",
     name: "Strong on GLP-1 Group Coaching",
-    price: "From $149/mo", // TODO: set real pricing per frequency tier below
+    price: "From $129/mo", // Benchmarked against niche-specialist group coaching, see PRICING NOTES below
     billing: "monthly, choose your session frequency",
     bestFor: "People who want live coaching, accountability, and community without 1:1 pricing",
     description:
       "Live small-group coaching sessions run by a coach who programs specifically around GLP-1 medications — pick how much live support you want.",
     features: [
-      "1x/week live group session — $149/mo", // TODO: confirm pricing
-      "2x/week live group sessions — $229/mo", // TODO: confirm pricing
-      "3x/week live group sessions — $299/mo", // TODO: confirm pricing
+      "1x/week live group session — $129/mo",
+      "2x/week live group sessions — $199/mo",
+      "3x/week live group sessions — $249/mo",
       "Custom strength programming updated monthly",
       "Form check & Q&A during every session",
       "Private group chat with your coach",
@@ -88,7 +102,7 @@ export const programs: ProgramTier[] = [
     slug: "one-on-one-coaching",
     tier: "high-ticket",
     name: "1:1 Private Coaching",
-    price: "Custom", // TODO: set real price
+    price: "Starting at $497/mo", // Benchmarked against premium niche-specialist 1:1 coaching, see PRICING NOTES below
     billing: "monthly, application required",
     bestFor: "People who want fully custom programming and direct access to their coach",
     description:
