@@ -366,7 +366,126 @@ and what keeps health-adjacent content compliant.
 
 ---
 
-## 6. Posting Cadence
+## 6. Muscle Guard Program — Research-Backed Pillars
+
+This is the fact-checked foundation for the program itself — what it's
+actually built on, so the pitch is defensible if anyone asks "says who?"
+Note two stats below measure different things and should never be merged
+into one number: "% of total weight lost that is lean mass" is not the
+same measurement as "% lean mass decline in a specific cohort."
+
+**Pillar 1 — Structured Resistance Training**
+- 2-3 sessions/week per major muscle group is associated with the best
+  muscle size and strength retention — more isn't automatically better.
+  Source: [Resistance training by the numbers — Harvard
+  Health](https://www.health.harvard.edu/healthy-aging-and-longevity/resistance-training-by-the-numbers).
+- 2-4 sets of 8-15 reps per exercise, building toward ~12-16 weekly sets
+  per muscle group. A study on caloric-restriction found higher training
+  volume (10+ weekly sets/muscle group) tracked with little-to-no lean
+  mass loss during a cut.
+  Source: [Lean mass sparing in resistance-trained athletes during caloric
+  restriction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9012799/).
+- Compound movements (squats, hinges, presses, rows), progressive
+  overload, and added balance/flexibility work to reduce injury risk —
+  this is the specific format 2026 clinical guidance points to for people
+  on GLP-1 therapy.
+  Source: [GLP-1 Therapies in 2026: Beyond Blood Sugar and the Scale —
+  AJMC](https://www.ajmc.com/view/glp-1-therapies-in-2026-beyond-blood-sugar-and-the-scale).
+
+**Pillar 2 — Protein Target**
+- 1.2-1.6g/kg body weight/day, spread evenly across meals. A 2025
+  multidisciplinary expert consensus (physicians, researchers, dietitians,
+  Delphi method) landed on 1.5g/kg/day as a specific target for this
+  population.
+  Source: [Nutritional and lifestyle supportive care recommendations for
+  management of obesity with GLP-1-based
+  therapies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12768930/).
+
+**Pillar 3 — Aerobic + Balance/Flexibility Work**
+- Included alongside resistance training (not instead of it) specifically
+  to reduce injury risk and support function.
+  Source: AJMC 2026 update above; [Body Composition Optimization in the
+  Era of GLP-1-Based Pharmacotherapy — Tinsley,
+  2026](https://onlinelibrary.wiley.com/doi/10.1002/lim2.70067).
+
+**Pillar 4 — Tracking Progress Beyond the Scale**
+- The 6-month study referenced in Section 5 found the group combining
+  resistance training + protein education lost 13% body weight but only
+  3% muscle mass, versus the ~20-30% lean-mass share of total weight lost
+  typically reported without that combination.
+- Separately, 2025-2026 clinical observations found an average 10-15%
+  lean mass decline among patients losing more than 15% of body weight on
+  high-dose GLP-1 therapy — a different measurement, from a different
+  cohort, cited here as its own data point, not combined with the stat
+  above.
+  Source: [Critical 2026 Update: New GLP-1 Rules to Stop Muscle Loss Now —
+  Ubie](https://ubiehealth.com/doctors-note/muscle-loss-glp1-prescribing-guidance-2026-37-docs62q2).
+
+### Program One-Pager (draft — for bio link / DM handoff)
+
+> **Muscle Guard Program**
+> Built around 4 things the research actually points to for protecting
+> muscle during fast weight loss: structured resistance training
+> (2-3x/week per muscle group, progressive overload), a specific protein
+> target (1.2-1.6g/kg/day, spread across meals), aerobic + balance work to
+> keep you moving safely, and tracking that looks past the scale —
+> strength, measurements, how your body actually functions.
+> This isn't a guarantee of a specific outcome — individual results vary —
+> it's a structure built on what's currently shown to help.
+
+---
+
+## 7. Content Bank — Muscle Guard Program
+
+Fact-based, objection-handling, and pillar-explainer posts specifically
+for introducing/promoting the program. Same rules as Section 4: no drug
+names, no personal guarantees, sources kept handy.
+
+20. **Hook:** "What the Muscle Guard Program is actually built on."
+    **Body:** Not hype — 4 pillars: structured resistance training
+    (2-3x/week per muscle group), a specific protein target
+    (1.2-1.6g/kg/day), aerobic + balance work, and tracking beyond the
+    scale. That's it. That's the whole thing.
+    **Soft close:** "Drop a 💪 if you want the breakdown."
+
+21. **Hook:** "Isn't cardio enough?"
+    **Body:** Cardio supports fat loss and heart health, but the research
+    on muscle preservation during weight loss points specifically to
+    resistance training as the variable that protects muscle — cardio
+    alone doesn't give muscle the stimulus it needs to stick around.
+    **Soft close:** none.
+
+22. **Hook:** "Do I need a gym for this?"
+    **Body:** The protocols in the research use compound movements —
+    squats, hinges, presses, rows — which work with a gym, dumbbells at
+    home, or resistance bands. What matters is frequency (2-3x/week per
+    muscle group) and progressive overload, not the specific equipment.
+    **Soft close:** none.
+
+23. **Hook:** "What if my joints hurt, or I'm scared of getting hurt?"
+    **Body:** 2026 clinical guidance for people on GLP-1 therapy
+    specifically includes balance and flexibility work alongside
+    resistance training to reduce injury risk. This isn't about maxing
+    out on day one — it's starting scaled to you and progressing safely.
+    **Soft close:** "That's exactly how the program is structured. Comment
+    STRONG if you want more info."
+
+24. **Hook:** "How much protein do you actually need on this?"
+    **Body:** Research points to 1.2-1.6g per kg of body weight per day,
+    spread across meals rather than one big serving — a 2025 expert
+    consensus panel landed on 1.5g/kg as a specific target.
+    **Soft close:** none.
+
+25. **Hook:** "Why more workouts isn't automatically better."
+    **Body:** Research on training frequency points to 2-3 sessions per
+    week per muscle group for the best size/strength retention — not 6
+    days a week, not "as much as possible." Consistency and progressive
+    overload matter more than volume for volume's sake.
+    **Soft close:** none.
+
+---
+
+## 8. Posting Cadence
 
 - **Groups:** 1-3 questions per day total across all 10-15 groups, never the
   same wording twice in the same day. Rotate which groups you post in.
