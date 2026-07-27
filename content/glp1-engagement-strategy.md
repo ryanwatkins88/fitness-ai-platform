@@ -485,7 +485,80 @@ names, no personal guarantees, sources kept handy.
 
 ---
 
-## 8. Posting Cadence
+## 9. Myth vs. Reality — Pure Credibility Content
+
+Post these with **zero CTA, zero link, zero mention of the guide or
+program.** The entire point is that people see you posting solid,
+sourced information for nothing in return — that's what makes someone
+scroll your page and think "she actually knows this stuff," which is
+worth more long-term than any single soft-invite post. Aim for 2-3 of
+these per week mixed into your other content.
+
+26. **Myth:** "Cardio is the priority for weight loss — strength training
+    is a nice extra."
+    **Reality:** In a controlled study of older adults with obesity in a
+    weight-loss program, the group doing resistance training lost about
+    2% of lean mass and under 1% of hip bone density. The aerobic-only
+    group lost about 5% of lean mass and 2.6% of hip bone density. Same
+    weight-loss goal, very different cost to the body.
+    Source: [Exercise attenuates bone mineral density loss during
+    diet-induced weight
+    loss](https://www.sciencedirect.com/science/article/pii/S2095254621000491);
+    [Resistance and Impact Training During Weight Loss — Older Adults With
+    Obesity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11981955/).
+
+27. **Myth:** "Building muscle dramatically speeds up your metabolism."
+    **Reality:** Research on strength training and resting metabolic rate
+    is more mixed than most fitness content lets on — several studies in
+    women specifically found no significant spike in resting metabolic
+    rate from strength training alone. The real, defensible benefit isn't
+    a metabolism hack — it's that muscle helps maintain your metabolic
+    rate over time and directly supports strength and function.
+
+28. **Myth:** "You have to spread your protein perfectly across every meal
+    or you're wasting it."
+    **Reality:** Evenly distributing protein across meals can raise
+    24-hour muscle protein synthesis by 25-48% in short-term research —
+    but most longer studies (weeks to months) haven't found that this
+    translates into a measurable difference in actual muscle mass.
+    Hitting your daily total consistently matters far more than being
+    perfect about timing.
+    Source: [Dietary Protein Distribution Positively Influences 24-h
+    Muscle Protein Synthesis in Healthy
+    Adults](https://www.sciencedirect.com/science/article/pii/S0022316622009087).
+
+29. **Myth:** "Lifting heavier weights will make me bulky."
+    **Reality:** Men have roughly 15-20x the testosterone women do, and
+    testosterone is the primary driver of dramatic size gains. Getting
+    "bulky" takes a specific combination most people never use — a
+    sustained calorie surplus, a highly specialized program, often more.
+    Regular strength training for women overwhelmingly produces strength
+    and function, not size.
+    *(Note: physiology here is solid, but this specific claim leans on
+    general fitness-industry sources rather than a peer-reviewed study
+    like the others above — fine for a casual post, worth a second look
+    before using anywhere higher-stakes.)*
+
+30. **Fact (no myth needed):** Age-related muscle loss (sarcopenia) isn't
+    just about how you look. In a large cohort study, 6-year mortality was
+    more than double for people with sarcopenia versus without it (4.8 vs.
+    2.1 deaths per 100 person-years), alongside higher rates of falls,
+    fractures, and loss of independence.
+    Source: [Predicting all-cause mortality using the sarcopenia
+    phenotype](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11692973/).
+
+31. **Fact:** Research consistently ties muscle mass, strength, and
+    physical performance directly to quality of life in older adults —
+    not just appearance, but whether you can get up off the floor, catch
+    yourself before a fall, or keep doing the things that make up a normal
+    day.
+    Source: [Age-associated declines in muscle mass, strength, power, and
+    physical performance: impact on fear of falling and quality of
+    life](https://pubmed.ncbi.nlm.nih.gov/26194491/).
+
+---
+
+## 10. Posting Cadence
 
 - **Groups:** 1-3 questions per day total across all 10-15 groups, never the
   same wording twice in the same day. Rotate which groups you post in.
