@@ -52,6 +52,11 @@ const faqs = [
     answer:
       "Yes. Whatever you share is used only to build your custom plan and is not shared with anyone else.",
   },
+  {
+    question: "I run everything manually right now — texts, spreadsheets, DMs. Is that a problem?",
+    answer:
+      "Not at all — a lot of the businesses I work with start exactly there. The plan meets you where you are, whether that's a single spreadsheet or an existing set of tools. You don't need any software in place beforehand to benefit.",
+  },
 ];
 
 export default function FaqPage() {

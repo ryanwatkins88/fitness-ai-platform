@@ -188,6 +188,160 @@ export const posts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "stop-getting-your-email-blocked-after-a-launch",
+    title: "Why Sending More Emails Can Get You Blocked (And How to Avoid It)",
+    description:
+      "A sudden spike in signups can get your email account flagged and blocked, even with a great open rate. Here's why that happens and how to launch without it.",
+    publishedAt: "2026-07-14",
+    readingTime: "4 min read",
+    content: [
+      {
+        type: "p",
+        text: "Here's a scenario that trips up a lot of course creators and membership owners: you run a great launch, hundreds or thousands of people sign up within hours, and then your email platform blocks you from sending. Your open rate is over 60%. Your list is engaged. None of that seems to matter — you still get flagged.",
+      },
+      {
+        type: "h2",
+        text: "It's not spam, it's the sudden change",
+      },
+      {
+        type: "p",
+        text: "Email providers watch for sudden shifts in sending behavior, not just content quality. A list that's been quiet for weeks and then blasts out thousands of emails in a short window looks, statistically, exactly like a hijacked account or a spam operation ramping up — even when a real, engaged audience is on the other end. The trigger is the shape of the spike, not the substance of the emails.",
+      },
+      {
+        type: "h2",
+        text: "3 ways to protect your next launch",
+      },
+      {
+        type: "ul",
+        items: [
+          "Warm up before the spike — send a few normal-volume emails in the days leading up to a launch so the jump isn't a cliff",
+          "Send in batches — release a big send over a few hours instead of all at once, especially for your first launch on a platform",
+          "Have a backup channel ready — if email pauses mid-launch, a DM automation, SMS, or in-app announcement keeps people moving toward your offer",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Plan for the spike, don't just react to it",
+      },
+      {
+        type: "p",
+        text: "If launches are a regular part of how you get customers, this isn't a one-time fix — it's a pattern worth building into your process every time, the same way you'd plan any other part of a launch. A little bit of forecasting (how many people are likely to sign up, how fast) turns a launch-day emergency into a non-issue.",
+      },
+      {
+        type: "h2",
+        text: "This is exactly the kind of thing a fresh set of eyes catches",
+      },
+      {
+        type: "p",
+        text: "Deliverability issues like this rarely show up until they've already cost you leads — which is exactly what a free AI business assessment call is for. Bring the specifics of how your business actually runs, and get a plan built around your real bottlenecks, not generic advice.",
+      },
+    ],
+  },
+  {
+    slug: "ai-content-repurposing-system",
+    title: "How to Turn One Piece of Content Into a Week of Marketing With AI",
+    description:
+      "Course creators and coaches don't need to write every post from scratch. Here's a simple AI system to turn one long-form piece into a week of content, without it turning into AI slop.",
+    publishedAt: "2026-07-21",
+    readingTime: "5 min read",
+    content: [
+      {
+        type: "p",
+        text: "If you teach, coach, or run a membership, content creation is probably eating more of your week than you'd like. The obvious answer is \"just use AI for it,\" but a lot of business owners have already tried that and ended up with something worse: generic, soulless posts that took almost as long to fix as they would have to write from scratch. That's a system problem, not an AI problem.",
+      },
+      {
+        type: "h2",
+        text: "The fix isn't \"use AI more,\" it's \"build a repurposing system\"",
+      },
+      {
+        type: "p",
+        text: "The highest-leverage way to use AI for content isn't asking it to invent your ideas — it's asking it to reformat ideas you've already created in your own voice. One piece of long-form content, made once, can become a week's worth of shorter posts across every platform you use.",
+      },
+      {
+        type: "h2",
+        text: "A simple weekly system",
+      },
+      {
+        type: "ul",
+        items: [
+          "Once a week, create one piece of long-form content in your own words — an article, a class outline, or a recorded lesson you'd already be making anyway",
+          "Feed that piece to AI with a repurposing prompt: ask for social captions, an email version, and short-form video scripts pulled directly from it",
+          "Do a quick pass to restore your voice and cut anything that sounds off, then schedule the batch for the week",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How to avoid \"AI slop\"",
+      },
+      {
+        type: "p",
+        text: "The rule that keeps this from feeling generic: AI never originates the core idea, it only reformats an idea you already wrote. Ask it to invent your message from scratch and you'll get filler. Ask it to repackage your actual thinking into five different formats, and you get content that still sounds like you — just faster.",
+      },
+      {
+        type: "h2",
+        text: "Free up time for the part that actually converts",
+      },
+      {
+        type: "p",
+        text: "For most coaches and course creators, the goal isn't content for its own sake — it's freeing up time to do the live teaching, sales calls, or client work that content is supposed to lead to. A repurposing system is one of the quick wins that consistently comes out of a free AI business assessment call, tailored to whatever platforms and content types you already use.",
+      },
+    ],
+  },
+  {
+    slug: "real-cost-of-manual-outreach",
+    title: "The Real Cost of Manual Outreach (And a Smarter Way to Spend That Hour)",
+    description:
+      "If you're spending an hour a day manually messaging strangers for leads, here's how to think about whether it's working, and what to automate instead.",
+    publishedAt: "2026-07-28",
+    readingTime: "4 min read",
+    content: [
+      {
+        type: "p",
+        text: "Picture a solo business owner spending an hour and a half a day scrolling social media, finding potential clients in the comments of other people's posts, and sending each one a personalized-sounding message by hand. Out of 66 messages sent in a day, maybe 5 people respond. Maybe 2 of those are actually interested. That's a real, common routine for solopreneurs trying to grow on social media, and it's worth doing the math on what it's actually costing.",
+      },
+      {
+        type: "h2",
+        text: "Do the math on what an hour actually costs you",
+      },
+      {
+        type: "p",
+        text: "An hour and a half a day, five days a week, is roughly 7-8 hours a week, or close to a full workday, spent on the highest-effort, lowest-conversion part of getting new clients. That's time not spent on sales calls, client work, or the parts of the business that only you can do.",
+      },
+      {
+        type: "h2",
+        text: "What you can't automate, and what you can",
+      },
+      {
+        type: "p",
+        text: "The initial outreach itself is genuinely hard to automate well, since the people being messaged aren't in your existing audience yet and a templated bulk message to strangers reads as spam. But the outreach isn't the only manual part of this process — the follow-up usually is too, and that's where automation earns its keep:",
+      },
+      {
+        type: "ul",
+        items: [
+          "A simple CRM or even a spreadsheet-based tracker so no lead's follow-up date gets missed or forgotten",
+          "A templated (not robotic) follow-up sequence that's triggered on a schedule instead of relying on remembering who's due for a message",
+          "A weekly look at response-rate numbers to decide whether this channel is worth the time versus trying something else",
+        ],
+      },
+      {
+        type: "h2",
+        text: "The bigger fix: know what to prioritize before you automate",
+      },
+      {
+        type: "p",
+        text: "For a lot of solo business owners, the harder problem isn't a lack of hustle — it's not knowing what's actually worth spending today's two hours on. Automation should follow a clear sense of priorities, not replace the need for one. That clarity is usually the first thing worth getting right, before adding any tools on top of it.",
+      },
+      {
+        type: "h2",
+        text: "Get a plan built around how you actually spend your time",
+      },
+      {
+        type: "p",
+        text: "If a chunk of your week looks like this, a free AI business assessment call can pinpoint exactly which parts are worth automating first and which parts of your routine should probably change entirely.",
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string) {
