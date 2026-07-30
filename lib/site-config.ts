@@ -22,6 +22,7 @@ export const siteConfig = {
   nav: [
     { href: "/mobility-recovery", label: "Mobility & Recovery" },
     { href: "/glp1-support", label: "GLP-1 Support" },
+    { href: "/resources", label: "Resources" },
     { href: "/about", label: "About" },
     { href: "/contact", label: "Contact" },
   ],

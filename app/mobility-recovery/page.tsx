@@ -1,10 +1,19 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import CtaButton from "@/components/CtaButton";
+import Faq from "@/components/Faq";
+import { articles } from "@/lib/articles";
+import { siteConfig } from "@/lib/site-config";
+
+const relatedArticles = articles.filter((article) => article.audience === "mobility");
 
 export const metadata: Metadata = {
   title: "Online Training for Arthritis, Injury Recovery & Balance (50+)",
   description:
     "Online personal training for adults 50+ managing arthritis, joint pain, stenosis, post-stroke recovery, Parkinson's, or past injuries. PTA-trained coaching focused on safe, steady progress.",
+  alternates: {
+    canonical: `${siteConfig.url}/mobility-recovery`,
+  },
 };
 
 const conditions = [
@@ -31,6 +40,29 @@ const process = [
   {
     step: "3. Ongoing coaching & accountability",
     text: "Regular check-ins, form feedback, and adjustments so you keep making progress safely, week after week.",
+  },
+];
+
+const faqs = [
+  {
+    question: "Can you train me online if I have arthritis or a joint replacement?",
+    answer:
+      "Yes — most of my clients in this track have arthritis, a joint replacement, or a past injury. Sessions are done over video call, and programming is built around your specific joints and restrictions from day one.",
+  },
+  {
+    question: "Do I need any equipment at home?",
+    answer:
+      "No. Most programs start with bodyweight and simple, inexpensive equipment (resistance bands, a sturdy chair). We can add equipment later if you want to progress further.",
+  },
+  {
+    question: "Is this a replacement for physical therapy?",
+    answer:
+      "No. If you're in active PT, I coordinate around that and typically start once you're discharged or cleared for independent exercise. Think of this as the strength and consistency layer that continues after formal PT ends.",
+  },
+  {
+    question: "I'm in my 60s or 70s and haven't exercised in years — is it too late to start?",
+    answer:
+      "It's genuinely one of the best times to start. Strength and balance training reduce fall risk and support independence regardless of age or exercise history — we just start at the right intensity for where you are today.",
   },
 ];
 
@@ -95,6 +127,30 @@ export default function MobilityRecoveryPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      <Faq items={faqs} />
+
+      <section className="mx-auto max-w-5xl px-6 py-16">
+        <h2 className="text-2xl font-bold text-zinc-900 dark:text-zinc-50">
+          Related reading
+        </h2>
+        <div className="mt-8 grid gap-6 sm:grid-cols-2">
+          {relatedArticles.map((article) => (
+            <Link
+              key={article.slug}
+              href={`/resources/${article.slug}`}
+              className="rounded-xl border border-zinc-200 bg-white p-6 transition-colors hover:border-teal-600 dark:border-zinc-800 dark:bg-zinc-950"
+            >
+              <p className="font-semibold text-zinc-900 dark:text-zinc-50">
+                {article.title}
+              </p>
+              <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-400">
+                {article.description}
+              </p>
+            </Link>
+          ))}
         </div>
       </section>
 

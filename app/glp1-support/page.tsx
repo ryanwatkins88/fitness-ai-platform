@@ -1,10 +1,19 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import CtaButton from "@/components/CtaButton";
+import Faq from "@/components/Faq";
+import { articles } from "@/lib/articles";
+import { siteConfig } from "@/lib/site-config";
+
+const relatedArticles = articles.filter((article) => article.audience === "glp1");
 
 export const metadata: Metadata = {
   title: "Strength Training for GLP-1 Weight Loss (Ozempic, Wegovy, Zepbound)",
   description:
     "Online strength training built for people on GLP-1 medications. Preserve lean muscle, keep your metabolism strong, and stay accountable while you lose weight.",
+  alternates: {
+    canonical: `${siteConfig.url}/glp1-support`,
+  },
 };
 
 const risks = [
@@ -27,6 +36,29 @@ const included = [
   "Protein and recovery guidance to support muscle retention (not a meal plan replacement)",
   "Weekly accountability check-ins so consistency doesn't depend on motivation",
   "Progress tracking beyond the scale — strength, function, and how your clothes fit",
+];
+
+const faqs = [
+  {
+    question: "Does Ozempic or Wegovy really cause muscle loss?",
+    answer:
+      "Research on GLP-1 medications has found that a notable portion of total weight lost can come from lean mass, not just fat — especially without resistance training. Strength training is the primary lever for protecting muscle during rapid weight loss.",
+  },
+  {
+    question: "I have low energy and appetite on my medication — can I still train?",
+    answer:
+      "Yes, and programming needs to reflect that. Sessions are shorter and lower-volume on lower-energy weeks, with intensity and consistency prioritized over pushing through fatigue. The plan adapts to you, not the other way around.",
+  },
+  {
+    question: "Do you replace my doctor or prescribe anything related to my medication?",
+    answer:
+      "No. I'm not a medical provider and don't advise on dosing, medication changes, or anything clinical. I focus entirely on the strength training and accountability side — always in coordination with your prescribing provider's guidance.",
+  },
+  {
+    question: "What happens to my results if I eventually stop the medication?",
+    answer:
+      "The muscle and strength you build during training stay with you after you taper off. Clients who combine GLP-1 medication with consistent strength training are in a much stronger position to maintain their results long-term.",
+  },
 ];
 
 export default function Glp1SupportPage() {
@@ -88,6 +120,32 @@ export default function Glp1SupportPage() {
           </ul>
         </div>
       </section>
+
+      <Faq items={faqs} />
+
+      {relatedArticles.length > 0 && (
+        <section className="mx-auto max-w-5xl px-6 py-16">
+          <h2 className="text-2xl font-bold text-zinc-900 dark:text-zinc-50">
+            Related reading
+          </h2>
+          <div className="mt-8 grid gap-6 sm:grid-cols-2">
+            {relatedArticles.map((article) => (
+              <Link
+                key={article.slug}
+                href={`/resources/${article.slug}`}
+                className="rounded-xl border border-zinc-200 bg-white p-6 transition-colors hover:border-teal-600 dark:border-zinc-800 dark:bg-zinc-950"
+              >
+                <p className="font-semibold text-zinc-900 dark:text-zinc-50">
+                  {article.title}
+                </p>
+                <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-400">
+                  {article.description}
+                </p>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
 
       <section className="mx-auto max-w-3xl px-6 py-16 text-center">
         <h2 className="text-2xl font-bold text-zinc-900 dark:text-zinc-50">
