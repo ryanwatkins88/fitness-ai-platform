@@ -189,6 +189,214 @@ export const articles: Article[] = [
     relatedHref: "/mobility-recovery",
     relatedLabel: "See how Mobility & Recovery coaching works",
   },
+  {
+    slug: "prehab-how-to-prepare-for-surgery-with-exercise",
+    title: "Prehab 101: How to Prepare for Surgery With Exercise",
+    description:
+      "What \"prehab\" actually means, why it's linked to better surgical outcomes, and what a basic pre-surgery exercise plan focuses on.",
+    audience: "mobility",
+    publishedAt: "2026-07-10",
+    readingTime: "5 min read",
+    blocks: [
+      {
+        type: "paragraph",
+        text: "Most people prepare for surgery by mentally bracing for the recovery. Far fewer prepare their body beforehand — even though the weeks before a procedure are often the best window you'll have to influence how that recovery goes.",
+      },
+      {
+        type: "heading",
+        text: "What \"prehab\" actually means",
+      },
+      {
+        type: "paragraph",
+        text: "Prehab is targeted exercise done in the weeks leading up to a scheduled surgery or procedure — a joint replacement, a rotator cuff repair, a meniscus repair, anything with a known recovery period. The goal isn't to train hard for its own sake; it's to walk into surgery stronger, more mobile, and more capable than you'd be doing nothing.",
+      },
+      {
+        type: "heading",
+        text: "Why it's worth doing",
+      },
+      {
+        type: "paragraph",
+        text: "Research on pre-surgical conditioning consistently points in the same direction: patients who go into surgery stronger tend to have an easier time regaining function afterward. That makes sense — recovery is largely about rebuilding strength and range of motion, and starting from a higher baseline means less ground to make up.",
+      },
+      {
+        type: "heading",
+        text: "What a basic prehab plan focuses on",
+      },
+      {
+        type: "list",
+        items: [
+          "Strengthening the muscles that support the surgical site, within what's currently pain-tolerable",
+          "General cardiovascular capacity, which supports a smoother hospital stay and recovery",
+          "Maintaining or improving range of motion before it's restricted post-surgically",
+          "Practicing post-op movement patterns (like using a walker, or getting in and out of a chair safely) while it's still easy to learn",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Timing matters",
+      },
+      {
+        type: "paragraph",
+        text: "Prehab is most useful started 4-8 weeks before a scheduled procedure, though even 2-3 weeks of focused work is better than none. The earlier you start, the more room there is to build a real strength base rather than just showing up less deconditioned.",
+      },
+      {
+        type: "paragraph",
+        text: "This article is educational and not medical advice. Always get clearance from your surgeon before starting a prehab program, and share your exercise plan with them.",
+      },
+    ],
+    relatedHref: "/mobility-recovery",
+    relatedLabel: "See how Mobility & Recovery coaching works",
+  },
+  {
+    slug: "hip-arthritis-exercises-to-stay-active",
+    title: "Hip Arthritis: Exercises to Stay Active Without Making It Worse",
+    description:
+      "How to keep training through hip arthritis — what to prioritize, what tends to flare it up, and why walking tolerance matters more than people think.",
+    audience: "mobility",
+    publishedAt: "2026-06-28",
+    readingTime: "5 min read",
+    blocks: [
+      {
+        type: "paragraph",
+        text: "Hip arthritis has a way of making people quietly do less — a little less walking, a little less standing, without ever deciding to. That gradual pullback is usually what makes things worse, not the arthritis itself.",
+      },
+      {
+        type: "heading",
+        text: "Where to start: glutes, not stretching",
+      },
+      {
+        type: "paragraph",
+        text: "The instinct with hip pain is often to stretch it. More often, the bigger lever is strengthening the glutes and hip stabilizers, which take pressure off the joint by controlling how your leg moves under load — standing, walking, and climbing stairs included.",
+      },
+      {
+        type: "heading",
+        text: "Exercises worth prioritizing",
+      },
+      {
+        type: "list",
+        items: [
+          "Glute bridges — builds hip extension strength without much joint compression",
+          "Standing hip abduction (with or without a band) — targets the stabilizers that control side-to-side hip movement",
+          "Sit-to-stands — functional strength through a range most daily movement actually uses",
+          "Short, frequent walks — builds tolerance gradually instead of one long walk that flares things up",
+        ],
+      },
+      {
+        type: "heading",
+        text: "What tends to flare it up",
+      },
+      {
+        type: "paragraph",
+        text: "Sudden increases in walking distance, deep unsupported flexion (like low couches or getting up from the floor awkwardly), and high-impact movement are the usual culprits. None of these need to be avoided forever — they just need to be reintroduced gradually, after a strength base is built.",
+      },
+      {
+        type: "paragraph",
+        text: "This article is educational and not a substitute for guidance from your physician or physical therapist — check with them before starting a new exercise routine.",
+      },
+    ],
+    relatedHref: "/mobility-recovery",
+    relatedLabel: "See how Mobility & Recovery coaching works",
+  },
+  {
+    slug: "balance-exercises-for-seniors-at-home",
+    title: "Balance Exercises for Seniors: A Simple Home Routine",
+    description:
+      "A basic, progressive balance routine you can do at home — and why balance needs to be trained directly, not just assumed to improve from general activity.",
+    audience: "mobility",
+    publishedAt: "2026-05-05",
+    readingTime: "5 min read",
+    blocks: [
+      {
+        type: "paragraph",
+        text: "Balance doesn't reliably improve just from walking more or staying generally active. Like any other physical quality, it responds best to being trained directly — and for adults 50+, it's one of the highest-leverage things you can work on.",
+      },
+      {
+        type: "heading",
+        text: "Start with support, not without it",
+      },
+      {
+        type: "paragraph",
+        text: "Every stage below should be done near a wall, counter, or sturdy chair you can catch yourself on. The goal is building real balance capacity, not testing how long you can go without support.",
+      },
+      {
+        type: "heading",
+        text: "A simple progression",
+      },
+      {
+        type: "list",
+        items: [
+          "Stage 1: Two-foot stance with eyes open, light fingertip support — hold 30 seconds",
+          "Stage 2: Two-foot stance with eyes closed, light support — hold 20-30 seconds",
+          "Stage 3: Single-leg stance near support, brief holds building toward 15-20 seconds per side",
+          "Stage 4: Heel-to-toe walking (tandem walk) along a straight line, using a wall for light support as needed",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Why consistency matters more than difficulty",
+      },
+      {
+        type: "paragraph",
+        text: "Five to ten minutes most days of the week will build more real balance capacity than one long, harder session a week. Balance is a skill as much as a physical quality — it responds to frequent practice.",
+      },
+      {
+        type: "paragraph",
+        text: "This article is educational and not a substitute for guidance from your physician or physical therapist, especially if you have a history of falls — they may recommend a supervised starting point.",
+      },
+    ],
+    relatedHref: "/mobility-recovery",
+    relatedLabel: "See how Mobility & Recovery coaching works",
+  },
+  {
+    slug: "glp1-and-protein-how-much-you-need",
+    title: "GLP-1 and Protein: How Much You Actually Need",
+    description:
+      "Why protein intake matters more while on a GLP-1 medication, general ranges commonly cited for weight loss, and practical ways to hit them with a smaller appetite.",
+    audience: "glp1",
+    publishedAt: "2026-07-18",
+    readingTime: "6 min read",
+    blocks: [
+      {
+        type: "paragraph",
+        text: "GLP-1 medications reduce appetite — which is the point, for weight loss. The tradeoff is that eating less overall makes it easier to fall short on protein specifically, right when your body needs it most to preserve muscle during a calorie deficit.",
+      },
+      {
+        type: "heading",
+        text: "Why protein needs don't drop with your appetite",
+      },
+      {
+        type: "paragraph",
+        text: "Muscle preservation during weight loss depends heavily on adequate protein intake combined with resistance training. A smaller appetite doesn't reduce how much protein your body needs to hold onto muscle — it just makes hitting that number harder.",
+      },
+      {
+        type: "heading",
+        text: "General ranges (not a prescription)",
+      },
+      {
+        type: "paragraph",
+        text: "Nutrition guidance for preserving muscle during weight loss commonly cites a range in the neighborhood of 0.7-1 gram of protein per pound of body weight, though individual needs vary based on your starting point, activity level, and health history. This is general education, not a personalized recommendation — a registered dietitian or your prescribing provider can help you land on a number that's right for you.",
+      },
+      {
+        type: "heading",
+        text: "Practical ways to hit it with a smaller appetite",
+      },
+      {
+        type: "list",
+        items: [
+          "Prioritize protein first at each meal, before other foods, while appetite allows it",
+          "Spread intake across more, smaller meals rather than 2-3 larger ones",
+          "Lean on efficient sources — Greek yogurt, cottage cheese, eggs, protein shakes — that deliver more protein per bite when volume is the limiting factor",
+          "Track for a few days if you're unsure where you actually land — most people underestimate the gap",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "This article is educational and not medical or nutrition advice. Always follow guidance from your prescribing provider or a registered dietitian regarding your specific nutrition needs.",
+      },
+    ],
+    relatedHref: "/glp1-support",
+    relatedLabel: "See how GLP-1 Strength Support coaching works",
+  },
 ];
 
 export function getArticleBySlug(slug: string) {

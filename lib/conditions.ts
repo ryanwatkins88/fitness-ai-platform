@@ -42,6 +42,7 @@ export const conditions: Condition[] = [
     ],
     caution:
       "Sudden increases in walking distance or unaccustomed loaded movement can flare an arthritic hip — progress is deliberately gradual.",
+    relatedArticleSlug: "hip-arthritis-exercises-to-stay-active",
   },
   {
     slug: "rotator-cuff-tear",
@@ -155,6 +156,7 @@ export const conditions: Condition[] = [
     ],
     caution:
       "Balance work is progressed carefully with appropriate support (a wall, chair, or counter) until each stage is genuinely solid — the goal is confidence, not risk.",
+    relatedArticleSlug: "balance-exercises-for-seniors-at-home",
   },
 ];
 
