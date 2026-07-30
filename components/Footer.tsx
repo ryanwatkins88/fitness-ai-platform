@@ -44,12 +44,22 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href={siteConfig.social.facebookPrimary}
+                href={siteConfig.social.facebookRehabGlp1}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-teal-700 dark:hover:text-teal-400"
               >
-                Facebook
+                Facebook (Rehab &amp; GLP-1)
+              </a>
+            </li>
+            <li>
+              <a
+                href={siteConfig.social.facebookGeneral}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-teal-700 dark:hover:text-teal-400"
+              >
+                Facebook (General)
               </a>
             </li>
             <li>

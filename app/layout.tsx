@@ -41,6 +41,12 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const socialLinks = [
+    siteConfig.social.facebookRehabGlp1,
+    siteConfig.social.facebookGeneral,
+    siteConfig.social.instagram,
+  ].filter((link) => !link.endsWith("com/"));
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "ProfessionalService",
@@ -49,10 +55,23 @@ export default function RootLayout({
     url: siteConfig.url,
     email: siteConfig.email,
     areaServed: "Online",
-    sameAs: [
-      siteConfig.social.facebookPrimary,
-      siteConfig.social.instagram,
-    ].filter((link) => !link.endsWith("com/")),
+    knowsAbout: [
+      "Personal training",
+      "Injury rehabilitation exercise",
+      "Prehabilitation (pre-surgery conditioning)",
+      "Arthritis-friendly strength training",
+      "Post-stroke exercise",
+      "Balance and fall-risk reduction",
+      "GLP-1 medication strength preservation",
+    ],
+    founder: {
+      "@type": "Person",
+      name: `${siteConfig.coachName} Watkins`,
+      jobTitle: "Personal Trainer & Physical Therapist Assistant",
+      description:
+        "15+ years as a personal trainer with a physical therapist assistant background, specializing in online coaching for injury recovery, arthritis, and GLP-1 strength preservation.",
+    },
+    sameAs: socialLinks,
   };
 
   return (

@@ -13,10 +13,11 @@ export const siteConfig = {
   url: "https://www.ryanwatkinsfit.com",
   email: "ryanwatkinsfit@gmail.com",
   social: {
-    // Add your real Facebook Page URLs here (not personal profile URLs).
-    facebookPrimary: "https://facebook.com/",
-    facebookMobility: "https://facebook.com/",
-    facebookGLP1: "https://facebook.com/",
+    // This site represents the training business, so only the two
+    // client-facing Pages are linked here — not the trainer lead-gen Page,
+    // which is a separate B2B audience and would confuse a client visitor.
+    facebookRehabGlp1: "https://facebook.com/", // "Rehab & Prehab + GLP-1" page
+    facebookGeneral: "https://facebook.com/", // "tank top arms" / general fitness page
     instagram: "https://instagram.com/",
   },
   nav: [

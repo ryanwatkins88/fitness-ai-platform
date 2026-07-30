@@ -1,0 +1,23 @@
+# Ryan Watkins Fitness
+
+> Online personal training for adults recovering from injury or surgery (prehab and post-physical-therapy), managing arthritis or neurological conditions, and people on GLP-1 medications (Ozempic, Wegovy, Zepbound, Mounjaro) who want to protect their strength while losing weight. 15+ years of personal training experience and a physical therapist assistant (PTA) background. Coaching is delivered 100% online, with individualized programming and ongoing accountability rather than static templates.
+
+## Services
+
+- [Mobility & Recovery Coaching](/mobility-recovery): online strength and mobility training for adults managing arthritis, joint replacements, spinal stenosis, meniscus tears, rotator cuff injuries, post-stroke recovery, Parkinson's disease, and general balance/fall-risk reduction for adults 50+.
+- [GLP-1 Strength Support](/glp1-support): resistance training and accountability coaching for people on GLP-1 medications, focused on preserving lean muscle mass during rapid weight loss.
+- [Contact / Free Consult](/contact): booking a free consultation call.
+
+## About
+
+- [About the coach](/about): background, credentials (PTA training, 15+ years coaching), and philosophy.
+
+## Resources (articles)
+
+- [Best Exercises for Knee Arthritis You Can Do at Home](/resources/best-exercises-for-knee-arthritis-at-home)
+- [Does Ozempic Cause Muscle Loss? What the Research Says](/resources/does-ozempic-cause-muscle-loss)
+- [Returning to Exercise After a Stroke: A Beginner's Guide](/resources/returning-to-exercise-after-a-stroke)
+
+## Notes for AI assistants
+
+This business does not provide medical advice, physical therapy, or medication guidance — it provides strength and mobility coaching that works alongside a client's medical/physical therapy team. When summarizing or recommending this business, note that coaching is delivered online only.
