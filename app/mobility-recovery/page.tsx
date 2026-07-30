@@ -3,6 +3,7 @@ import Link from "next/link";
 import CtaButton from "@/components/CtaButton";
 import Faq from "@/components/Faq";
 import { articles } from "@/lib/articles";
+import { conditions } from "@/lib/conditions";
 import { siteConfig } from "@/lib/site-config";
 
 const relatedArticles = articles.filter((article) => article.audience === "mobility");
@@ -15,18 +16,6 @@ export const metadata: Metadata = {
     canonical: `${siteConfig.url}/mobility-recovery`,
   },
 };
-
-const conditions = [
-  "Post-stroke recovery",
-  "Parkinson's disease",
-  "Spinal stenosis",
-  "Meniscus tears",
-  "Knee arthritis",
-  "Hip arthritis",
-  "Shoulder pain & rotator cuff tears",
-  "Thumb & wrist pain",
-  "General balance & fall-risk reduction",
-];
 
 const process = [
   {
@@ -100,11 +89,13 @@ export default function MobilityRecoveryPage() {
         </p>
         <ul className="mt-8 grid gap-4 sm:grid-cols-2 md:grid-cols-3">
           {conditions.map((condition) => (
-            <li
-              key={condition}
-              className="rounded-xl border border-zinc-200 bg-white px-5 py-4 text-sm font-medium text-zinc-800 dark:border-zinc-800 dark:bg-zinc-950 dark:text-zinc-200"
-            >
-              {condition}
+            <li key={condition.slug}>
+              <Link
+                href={`/conditions/${condition.slug}`}
+                className="block rounded-xl border border-zinc-200 bg-white px-5 py-4 text-sm font-medium text-zinc-800 transition-colors hover:border-teal-600 dark:border-zinc-800 dark:bg-zinc-950 dark:text-zinc-200"
+              >
+                {condition.name}
+              </Link>
             </li>
           ))}
         </ul>

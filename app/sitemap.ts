@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { articles } from "@/lib/articles";
+import { conditions } from "@/lib/conditions";
 import { siteConfig } from "@/lib/site-config";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -7,6 +8,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "",
     "/mobility-recovery",
     "/glp1-support",
+    "/conditions",
     "/resources",
     "/about",
     "/contact",
@@ -26,5 +28,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...staticEntries, ...articleEntries];
+  const conditionEntries: MetadataRoute.Sitemap = conditions.map((condition) => ({
+    url: `${siteConfig.url}/conditions/${condition.slug}`,
+    lastModified: new Date(),
+    changeFrequency: "monthly",
+    priority: 0.7,
+  }));
+
+  return [...staticEntries, ...articleEntries, ...conditionEntries];
 }

@@ -72,6 +72,32 @@ export default function RootLayout({
         "15+ years as a personal trainer with a physical therapist assistant background, specializing in online coaching for injury recovery, arthritis, and GLP-1 strength preservation.",
     },
     sameAs: socialLinks,
+    hasOfferCatalog: {
+      "@type": "OfferCatalog",
+      name: "Coaching programs",
+      itemListElement: [
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Service",
+            name: "Mobility & Recovery Coaching",
+            description:
+              "Online strength and mobility coaching for adults managing arthritis, joint injuries, post-stroke recovery, Parkinson's, and balance/fall risk.",
+            url: `${siteConfig.url}/mobility-recovery`,
+          },
+        },
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Service",
+            name: "GLP-1 Strength Support",
+            description:
+              "Online resistance training and accountability coaching for people on GLP-1 medications to preserve lean muscle during weight loss.",
+            url: `${siteConfig.url}/glp1-support`,
+          },
+        },
+      ],
+    },
   };
 
   return (

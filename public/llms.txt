@@ -12,6 +12,20 @@
 
 - [About the coach](/about): background, credentials (PTA training, 15+ years coaching), and philosophy.
 
+## Conditions
+
+Dedicated pages for specific conditions, linked from [Mobility & Recovery](/mobility-recovery) and indexed at [/conditions](/conditions):
+
+- [Knee Arthritis](/conditions/knee-arthritis)
+- [Hip Arthritis](/conditions/hip-arthritis)
+- [Rotator Cuff Tear](/conditions/rotator-cuff-tear)
+- [Wrist & Thumb Pain](/conditions/wrist-thumb-pain)
+- [Spinal Stenosis](/conditions/spinal-stenosis)
+- [Meniscus Tear](/conditions/meniscus-tear)
+- [Post-Stroke Recovery](/conditions/post-stroke-recovery)
+- [Parkinson's Disease](/conditions/parkinsons-disease)
+- [Balance & Fall Prevention](/conditions/balance-fall-prevention)
+
 ## Resources (articles)
 
 - [Best Exercises for Knee Arthritis You Can Do at Home](/resources/best-exercises-for-knee-arthritis-at-home)

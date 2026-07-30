@@ -18,7 +18,7 @@ export default function Header() {
           {siteConfig.name}
         </Link>
 
-        <nav className="hidden items-center gap-8 md:flex">
+        <nav className="hidden items-center gap-5 lg:flex">
           {siteConfig.nav.map((item) => (
             <Link
               key={item.href}
@@ -39,7 +39,7 @@ export default function Header() {
           </Link>
           <button
             type="button"
-            className="inline-flex items-center justify-center rounded-md p-2 text-zinc-700 md:hidden dark:text-zinc-200"
+            className="inline-flex items-center justify-center rounded-md p-2 text-zinc-700 lg:hidden dark:text-zinc-200"
             aria-expanded={open}
             aria-label="Toggle menu"
             onClick={() => setOpen((v) => !v)}
@@ -66,7 +66,7 @@ export default function Header() {
       </div>
 
       {open && (
-        <nav className="border-t border-zinc-200 px-6 py-4 md:hidden dark:border-zinc-800">
+        <nav className="border-t border-zinc-200 px-6 py-4 lg:hidden dark:border-zinc-800">
           <ul className="flex flex-col gap-4">
             {siteConfig.nav.map((item) => (
               <li key={item.href}>
